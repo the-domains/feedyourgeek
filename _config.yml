@@ -1,0 +1,28 @@
+name: Feed Your Geek
+favicon: null
+layout_spectrum: 0.951707003870979
+typography_spectrum: 0.5939301408361644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9261677036993206
+  lightness: 0.9369754884392023
+  saturation: 0.4368953451048583
+  rhythmicContrast: 0.5457952998112887
+purpose: []
